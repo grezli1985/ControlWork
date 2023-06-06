@@ -1,3 +1,9 @@
 {
-    "git.autofetch": true
+    "git.autofetch": true,
+    "sqltools.connections": [],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mysql-connector-j-8.0.33.jar",
+        "System/src/Resources/**/*.jar"
+    ]
 }
